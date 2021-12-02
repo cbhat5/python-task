@@ -1,4 +1,4 @@
-# rystad-python-task
+# python-task
 
 ## Run scraper.py and then run Processor.py
 
